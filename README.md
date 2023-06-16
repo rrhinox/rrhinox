@@ -11,7 +11,8 @@ Here I want to tidy up all my personal projects, work experience notes, and gist
 
 I'm a father who made the bash linux command line, his job. Interested in the whole life cycle of software, obsessed with performance, team work and DevOps culture!
 
-Thanks to my brother example, I follow the mistery behind a keyboard and circuits that connect humans to the internet, like a detective :detective:.
+Thanks to my brother example, I follow the mistery behind a keyboard and circuits that connect humans to the internet. 
+Like a detective :detective: I love solve issues and find out the ROOT cause; for this I often need to have root access. 
 
 I am naturally curious and hungry to learn something new every day and share knowledge and tricks, with my collegues.
 
