@@ -5,7 +5,7 @@ Hello, I'm Roberto, Roby for friends - rob or "geronimOps" for some collegues.
 
 #### **Welcome to my little space in the infinite world of the Open Source Codes!**
 
-Here I want to tidy up all my personal projects, work experience notes, and gists to give back to the web some useful information for some infrastructure maintenance technician friends like me.
+Here I want to tidy up all my personal projects, work experience notes, and gists to give back to the web some useful information for some infrastructure maintenance technician friends like me (Ops Eng., IT Administrator, DevOps or Sys Admin etc.) .
 
 ## **About Me** :man_feeding_baby: :hammer_and_wrench: 
 
@@ -44,7 +44,7 @@ I started to study on my own what my last year of computer science in high schoo
 ### ***Middleware, Ops and DevOps***
 I was offered to work in the middleware and operations team, where I fell in love with Linux operating systems (mainly centos and redhat). Since then I have mostly helped Java developers release sw into production in fairly complex infrastructure (although not very stable but by dint of hammering out code and configurations, then we fixed them).
 
-I consider myself too much of a generalist (for some a virtue for others a flaw) and feel the need to specialize in an opensource tool. I've already been using Borg oh sorry Kubernetes in production, about 4 years (not as an administrator) so I need to go deeper into it. Here's why I am currently studying a Linux Software Foundation course to become a certified Kubernetes administrator by the end of the year.
+I consider myself too much of a generalist (for some a virtue for others a flaw) and feel the need to specialize in an opensource tool. I've already been using <a href="https://www.gcppodcast.com/post/episode-46-borg-and-k8s-with-john-wilkes/" alt="borg_podcats_google" target="_blank">Borg</a> oh sorry Kubernetes in production, about 4 years (not as an administrator) so I need to go deeper into it. Here's why I am currently studying a Linux Software Foundation course to become a certified Kubernetes administrator by the end of the year.
 
 ## **Working in progress** 
 All this space and repos are a work in progress. Feel free to contact me with any questions or open source collaboration (but not to ask for money XD at most I'll buy you a coffee).
