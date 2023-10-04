@@ -26,7 +26,8 @@ I'm a technician (like plumber or bricklayer) of linux servers expert in operati
 **Some Stuff in Tech ***#Tags*** :**
   - **APM** - ***#Dynatrace #Nagios #NewRelic #Prometheus***
   - **AWS** - ***#APIGateway #Cloudformation #DocumentDB #EC2 #KMS #S3***
-  - **CMD** - ***#awscli #bash #git***
+  - **Azure** - ***#AzureDevOps #adf #aks #servicebus***
+  - **CMD** - ***#awscli #bash #git #kubectl #azcli***
   - **Middleware** - ***#fuse #kafka #liferay #openCms #Tomcat #jboss #Weblogic***
   - **Ops&DevOps** - ***#apache #docker #kubernetes #jvm #linux #tomcat***
   - **Pipeline** - ***#jenkins #gitlab #azuredevops***
