@@ -1,4 +1,4 @@
-**RRhinox :rhinoceros: | Welcome folks! :wave:**
+**RRhinox :rhinoceros: - Welcome Internauts! :wave:**
 =============
 
 Hello, I'm Roberto, Roby for friends - rob or "geronimOps" for some collegues. 
