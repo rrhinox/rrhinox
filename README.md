@@ -9,7 +9,7 @@ I am a kind of a curious, application infrastructure builder and maintainer who 
 
 #### **Welcome to my little space in the infinite world of the Open Source Codes!**
 
-Here I want to tidy up all my personal projects, work experience notes, and gists to give back to the web some useful information for some infrastructure maintenance technician friends like me (Ops Eng., IT Administrator, DevOps or Sys Admin etc.) .
+Here I want to tidy up all my personal projects, work experience notes and gists to return to the web some useful information for infrastructure maintenance tech friends like me (Ops Eng., IT Administrator, DevOps or Sys Admin etc.)... and yes also for all Devs and people interested in : IaC, Cloud, Linux, Kubernetes in short all the tools and practices useful to improve the software lifecycle and consequently to our now increasingly connected lives!
 
 ## **About Me** :man_feeding_baby: :hammer_and_wrench: 
 
