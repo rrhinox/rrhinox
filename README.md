@@ -26,7 +26,7 @@ Like a detective :detective: I love solve issues and find out the ROOT cause; fo
 I am naturally curious and hungry to learn something new every day and share knowledge and tricks, with my collegues.
 
 ## **About My Job** 
-Linux - RedHat, CentOS, Ubuntu:penguin: Apache - httpd :feather:, Tomcat :tiger: 
+Linux - RedHat, CentOS, Ubuntu :penguin: Apache - httpd 🦅, Tomcat :tiger: 
 AWS :cloud:, Docker :whale2:, Kubernetes :wheel_of_dharma: 
 
 ### **Summary story**
@@ -43,7 +43,8 @@ I'm a technician (like plumber or bricklayer) of linux servers expert in operati
   - **XML/JSON** - ***#tomcat #webservices #restapi #soap***
   - **YAML** - ***#puppet #helm #ansible #terraform***
 
-> *“A smart generalist doesn’t have bias, so is free to survey the wide range of solutions and gravitate to the best one.” (Eric Schmidt)*
+> *“A smart generalist doesn’t have bias, so is free to survey the wide range of solutions and gravitate to the best one.”
+> (Eric Schmidt)*
 
 ### **The long story long**
 
