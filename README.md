@@ -5,8 +5,6 @@ Hello, I'm Roberto, Roby for friends - rob or "geronimOps" for some collegues.
 
 I am a kind of a curious, application infrastructure builder and maintainer who tries to build bridges between the development and operations worlds, with the goal of working better together for a common goal, avoiding accidents in production.
 
-> “A smart generalist doesn’t have bias, so is free to survey the wide range of solutions and gravitate to the best one.” (Eric Schmidt)
-
 #### **Welcome to my little space in the infinite world of the Open Source Codes!**
 
 Here I want to tidy up all my personal projects, work experience notes and gists to return to the web some useful information for infrastructure maintenance tech friends like me (Ops Eng., IT Administrator, DevOps or Sys Admin etc.)... and yes also for all Devs and people interested in : IaC, Cloud, Linux, Kubernetes in short all the tools and practices useful to improve the software lifecycle and consequently to our now increasingly connected lives!
